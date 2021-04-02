@@ -1,3 +1,4 @@
-github.com/Neczesk/mapmaker v0.0.0-20210402211423-c8235f7db413 h1:gLa/40CT4pvjhH8A3DdE8XXHXDNHEPq3uU+lDBUZkMU=
-github.com/Neczesk/mapmaker v0.0.0-20210402211423-c8235f7db413/go.mod h1:uAL4lccsYqRP7uWSBmw7jGy5oS/v2eD2o/fyvdVRUIo=
+github.com/Neczesk/mapmaker v0.0.0-20210402213210-edbd3691af6e h1:48ZKORk4jiJtwZDacMABgmrLgg3sMhUS/l1yyZy+ZYo=
+github.com/Neczesk/mapmaker v0.0.0-20210402213210-edbd3691af6e/go.mod h1:uAL4lccsYqRP7uWSBmw7jGy5oS/v2eD2o/fyvdVRUIo=
+github.com/mattn/go-sqlite3 v1.14.6 h1:dNPt6NO46WmLVt2DLNpwczCmdV5boIZ6g/tlDrlRUbg=
 github.com/mattn/go-sqlite3 v1.14.6/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
